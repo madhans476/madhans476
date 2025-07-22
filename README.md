@@ -26,11 +26,11 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| <b>Traffic Rules Assistant</b><br/><sub>RAG Chatbot</sub> | LangChain, FastAPI, FAISS | Natural language Q&A for TN traffic rules, semantic search, LLM-powered, modular backend. |
-| <b>Clip Scholar</b><br/><sub>AI Study App</sub> | Flask, Bootstrap, Mistral API | Generates notes/quizzes/flashcards from YouTube videos, responsive UI, automated learning. |
-| <b>Co-BERT</b><br/><sub>Code-mix Tokenization</sub> | BERT, Mistral, NLP | Pretrained/finetuned BERT on Tanglish, Kanglish, Hinglish; SOTA tokenizers; cross-entropy loss. |
-| <b>Food Hazard Prediction</b><br/><sub>SemEval 2025</sub> | PyTorch, XGBoost, Hugging Face | ML pipeline; SMOTE for imbalance; ensemble models; 88% accuracy, 0.76 F1. |
-| <b>Startup Funding Visualization</b> | Streamlit, Plotly, Pandas | Interactive dashboard, geospatial viz, dynamic filtering, real-time insights. |
+| <b><a href="https://github.com/madhans476/traffic_rules_assistant">Traffic Rules Assistant</a></b><br/><sub>RAG Chatbot</sub> | LangChain, FastAPI, FAISS | Natural language Q&A for TN traffic rules, semantic search, LLM-powered, modular backend. |
+| <b><a href="https://github.com/madhans476/Clip-Scholar">Clip Scholar</a></b><br/><sub>AI Study App</sub> | Flask, Bootstrap, Mistral API | Generates notes/quizzes/flashcards from YouTube videos, responsive UI, automated learning. |
+| <b><a href="https://github.com/madhans476/Co-BERT">Co-BERT</a></b><br/><sub>Code-mix Tokenization</sub> | BERT, Mistral, NLP | Pretrained/finetuned BERT on Tanglish, Kanglish, Hinglish; SOTA tokenizers; cross-entropy loss. |
+| <b><a href="https://github.com/madhans476/Food-hazard-detection-SEMEVAL-2025">Food Hazard Prediction</a></b><br/><sub>SemEval 2025</sub> | PyTorch, XGBoost, Hugging Face | ML pipeline; SMOTE for imbalance; ensemble models; 88% accuracy, 0.76 F1. |
+| <b><a href="https://github.com/madhans476/Indian_Startup_Funding_Analysis">Startup Funding Visualization</a></b><br/><sub>Data Analytics</sub></b> | Streamlit, Plotly, Pandas | Interactive dashboard, geospatial viz, dynamic filtering, real-time insights. |
 
 </details>
 
